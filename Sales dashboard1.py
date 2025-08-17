@@ -38,7 +38,7 @@ st.sidebar.markdown(
     unsafe_allow_html=True
 )
 st.sidebar.write('')
-st.sidebar.image('D:\Sales_project\salee.jpg')
+st.sidebar.image("salee.jpg")
 st.sidebar.write('')
 st.sidebar.header('Filter your data : ')
 
